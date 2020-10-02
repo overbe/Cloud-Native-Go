@@ -1,6 +1,6 @@
 = Cloud Native Go
 
-This repository contains the example sources for the Cloud Native Go Volume 1 course.
+This repository contains the example sources for the Cloud Native Go.
 
 == Prerequisites
 
