@@ -14,7 +14,12 @@ In order to build and run this showcase you need to have a couple of things inst
 
 ```bash
 $ go build
-$ ./Cloud-Native-Go.exe
+
+$ ./Cloud-Native-Go.exe (Windows)
+
+or
+
+$ ./Cloud-Native-Go (Linux)
 ```
 
 == Containerization with Docker
